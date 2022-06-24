@@ -1,0 +1,42 @@
+
+body {
+    background-color: black;
+}
+
+header {
+    display: flex;
+    align-items: center;
+    padding: auto;
+}
+
+.container {
+    width: 600px;
+    margin: 0 auto;
+    background-color: white;
+}
+.encabezado {
+    padding: 10px 20px;
+    display: flex;
+    font-size: 55%;
+
+}
+
+.header1 {
+margin-right: 50px;
+ padding: 10px 20px;
+ margin-inline: auto;
+margin-top: -4%;
+ 
+ 
+}
+.derecha { margin-left: 64%;
+    float: right;
+}
+
+.post-footer {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+p{
+    padding-left: 10px;
+}
